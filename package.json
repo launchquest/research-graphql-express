@@ -1,9 +1,9 @@
 {
-  "name": "graphql-api",
+  "name": "graphql-express",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Adam K Dean <adamkdean@googlemail.com>",
-  "license": "MIT",
+  "author": "Adam K Dean <adam@launchquest.co>",
+  "license": "LQL1.0",
   "type": "module",
   "scripts": {
     "start": "nodemon src/index.js"

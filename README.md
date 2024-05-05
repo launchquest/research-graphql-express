@@ -1,4 +1,4 @@
-# GraphQL API
+# GraphQL Express (Research)
 
 [![License: LQL 1.0](https://img.shields.io/badge/License-LQL%201.0-brightgreen)](https://launchquest.co/lql-1.0.txt) [![Status: Experimental](https://img.shields.io/badge/Status-Experimental-blue)](https://launchquest.co/experimental.txt)
 
