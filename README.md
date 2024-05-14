@@ -1,6 +1,6 @@
 # GraphQL Express (Research)
 
-[![License: LQL 1.0](https://img.shields.io/badge/License-LQL%201.0-brightgreen)](https://launchquest.co/lql-1.0.txt) [![Status: Experimental](https://img.shields.io/badge/Status-Experimental-blue)](https://launchquest.co/experimental.txt)
+[![License: LQL 1.0](https://img.shields.io/badge/License-LQL%201.0-brightgreen)](https://github.com/launchquest/license/blob/master/README.md) [![Status: Experimental](https://img.shields.io/badge/Status-Experimental-blue)](https://github.com/launchquest/license/blob/master/Experimental.md)
 
 This repository contains an example implementation of a GraphQL API using Node.js and Express. It demonstrates how GraphQL can be used as an alternative to traditional REST APIs, offering several benefits in terms of efficiency, flexibility, and performance.
 
